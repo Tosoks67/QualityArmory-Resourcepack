@@ -161,13 +161,20 @@
                     "model": "qualityarmory:misc/medkit"
                 }
             },
-			{
-				"threshold": 6712,
-				"model": {
-				  "type": "model",
-				  "model": "item/mask"
-				}
-			}
+	    {
+		"threshold": 6712,
+		"model": {
+		    "type": "model",
+		    "model": "item/mask"
+		}
+	    },
+	    {
+		"threshold": 6713,
+		"model": {
+		    "type": "model",
+		    "model": "item/osdmask"
+		}
+	    }
         ]
     }
 }
