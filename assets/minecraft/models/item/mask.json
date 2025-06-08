@@ -204,6 +204,9 @@
 		"firstperson_lefthand": {
 			"scale": [0.6, 0.6, 0.6]
 		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"gui": {
 			"rotation": [0, 133, 0],
 			"translation": [0, -1, 0],
