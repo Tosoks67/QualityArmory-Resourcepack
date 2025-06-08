@@ -174,6 +174,13 @@
 		    "type": "model",
 		    "model": "item/osdmask"
 		}
+	    },
+	    {
+		"threshold": 6714,
+		"model": {
+		    "type": "model",
+		    "model": "item/ssomask"
+		}
 	    }
         ]
     }
