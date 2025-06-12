@@ -181,6 +181,13 @@
 		    "type": "model",
 		    "model": "item/ssomask"
 		}
+	    },
+	    {
+		"threshold": 6715,
+		"model": {
+		    "type": "model",
+		    "model": "item/berret"
+		}
 	    }
         ]
     }
