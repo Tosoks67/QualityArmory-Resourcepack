@@ -383,7 +383,7 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"firstperson_lefthand": {
-			"translation": [-1.75, 12.5, 0.75],
+			"translation": [-8.825, 13.5, 4.75],
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"ground": {
