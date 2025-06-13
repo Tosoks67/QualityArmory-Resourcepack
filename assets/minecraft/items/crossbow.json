@@ -650,11 +650,25 @@
           "model": "qualityarmory:misc/ammobag"
         }
       },
-	  {
+      {
         "threshold": 6713,
         "model": {
           "type": "model",
           "model": "item/shotgun"
+        }
+      },
+      {
+        "threshold": 6714,
+        "model": {
+          "type": "model",
+          "model": "item/usp"
+        }
+      },
+      {
+        "threshold": 6715,
+        "model": {
+          "type": "model",
+          "model": "item/usp_silenced"
         }
       }
     ]
